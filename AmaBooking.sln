@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmaBooking.Domain", "src\Am
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmaBooking.Infrastructure", "AmaBooking.Infrastructure\AmaBooking.Infrastructure.csproj", "{1A7079C0-C68F-4A92-8CC5-41DD1E753AC5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C44EAE76-1CB0-4532-8252-F738CF7F46FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
